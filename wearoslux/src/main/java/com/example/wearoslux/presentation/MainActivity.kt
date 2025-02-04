@@ -12,7 +12,6 @@ import androidx.lifecycle.lifecycleScope
 import kotlinx.coroutines.launch
 
 class MainActivity : ComponentActivity(), SensorEventListener {
-
     private lateinit var sensorManager: SensorManager
     private var lightSensor: Sensor? = null
     private val lightLevel = mutableStateOf("초기화 중...") // 조도 데이터 상태 관리

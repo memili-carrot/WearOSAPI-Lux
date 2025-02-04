@@ -9,6 +9,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.wear.compose.material.MaterialTheme
 import androidx.wear.compose.material.Text
 
+
 @Composable
 fun WearApp(lightLevel: String) {
     MaterialTheme {
