@@ -10,11 +10,18 @@ import androidx.activity.compose.setContent
 import androidx.compose.runtime.mutableStateOf
 import androidx.lifecycle.lifecycleScope
 import kotlinx.coroutines.launch
+import org.json.JSONArray
+import org.json.JSONObject
+import java.io.File
+import java.io.FileWriter
+import java.io.IOException
+import android.util.Log
 
 class MainActivity : ComponentActivity(), SensorEventListener {
     private lateinit var sensorManager: SensorManager
     private var lightSensor: Sensor? = null
     private val lightLevel = mutableStateOf("초기화 중...") // 조도 데이터 상태 관리
+    private val sensorDataList = JSONArray() // JSON 데이터 리스트
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -52,8 +59,35 @@ class MainActivity : ComponentActivity(), SensorEventListener {
             lifecycleScope.launch {
                 lightLevel.value = "조도 레벨: $lightValue lx"
             }
+
+            // JSON 데이터 생성
+            val sensorData = JSONObject().apply {
+                put("timestamp", System.currentTimeMillis())
+                put("sensor_name", "Light Sensor")
+                put("lux", lightValue) // 조도 값 (Lux)
+            }
+
+            // JSON 배열에 추가
+            sensorDataList.put(sensorData)
+
+            // JSON 파일로 저장
+            saveJsonToFile(sensorDataList)
         }
     }
 
     override fun onAccuracyChanged(sensor: Sensor?, accuracy: Int) {}
+
+    private fun saveJsonToFile(jsonArray: JSONArray) {
+        val fileName = "light_sensor_data.json"
+        val file = File(getExternalFilesDir(null), fileName) // 내부 저장소 대신 외부 저장소 사용
+
+        try {
+            FileWriter(file).use { writer ->
+                writer.write(jsonArray.toString(4))
+            }
+            Log.d("SensorData", "JSON 파일 저장 완료: ${file.absolutePath}")
+        } catch (e: IOException) {
+            Log.e("FileError", "JSON 저장 실패: ${e.message}")
+        }
+    }
 }

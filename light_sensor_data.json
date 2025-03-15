@@ -1,0 +1,567 @@
+[
+    {
+        "timestamp": 1741844895968,
+        "sensor_name": "Light Sensor",
+        "lux": 610
+    },
+    {
+        "timestamp": 1741844896006,
+        "sensor_name": "Light Sensor",
+        "lux": 616
+    },
+    {
+        "timestamp": 1741844896016,
+        "sensor_name": "Light Sensor",
+        "lux": 616
+    },
+    {
+        "timestamp": 1741844896030,
+        "sensor_name": "Light Sensor",
+        "lux": 616
+    },
+    {
+        "timestamp": 1741844896044,
+        "sensor_name": "Light Sensor",
+        "lux": 610
+    },
+    {
+        "timestamp": 1741844896059,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844896281,
+        "sensor_name": "Light Sensor",
+        "lux": 501
+    },
+    {
+        "timestamp": 1741844896432,
+        "sensor_name": "Light Sensor",
+        "lux": 368
+    },
+    {
+        "timestamp": 1741844896630,
+        "sensor_name": "Light Sensor",
+        "lux": 276
+    },
+    {
+        "timestamp": 1741844896830,
+        "sensor_name": "Light Sensor",
+        "lux": 241
+    },
+    {
+        "timestamp": 1741844897030,
+        "sensor_name": "Light Sensor",
+        "lux": 270
+    },
+    {
+        "timestamp": 1741844897230,
+        "sensor_name": "Light Sensor",
+        "lux": 282
+    },
+    {
+        "timestamp": 1741844897429,
+        "sensor_name": "Light Sensor",
+        "lux": 288
+    },
+    {
+        "timestamp": 1741844897629,
+        "sensor_name": "Light Sensor",
+        "lux": 432
+    },
+    {
+        "timestamp": 1741844897829,
+        "sensor_name": "Light Sensor",
+        "lux": 466
+    },
+    {
+        "timestamp": 1741844898029,
+        "sensor_name": "Light Sensor",
+        "lux": 587
+    },
+    {
+        "timestamp": 1741844898229,
+        "sensor_name": "Light Sensor",
+        "lux": 593
+    },
+    {
+        "timestamp": 1741844898429,
+        "sensor_name": "Light Sensor",
+        "lux": 599
+    },
+    {
+        "timestamp": 1741844898627,
+        "sensor_name": "Light Sensor",
+        "lux": 599
+    },
+    {
+        "timestamp": 1741844898828,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844899028,
+        "sensor_name": "Light Sensor",
+        "lux": 599
+    },
+    {
+        "timestamp": 1741844899226,
+        "sensor_name": "Light Sensor",
+        "lux": 599
+    },
+    {
+        "timestamp": 1741844899426,
+        "sensor_name": "Light Sensor",
+        "lux": 599
+    },
+    {
+        "timestamp": 1741844899625,
+        "sensor_name": "Light Sensor",
+        "lux": 599
+    },
+    {
+        "timestamp": 1741844899825,
+        "sensor_name": "Light Sensor",
+        "lux": 599
+    },
+    {
+        "timestamp": 1741844900025,
+        "sensor_name": "Light Sensor",
+        "lux": 599
+    },
+    {
+        "timestamp": 1741844900227,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844900427,
+        "sensor_name": "Light Sensor",
+        "lux": 599
+    },
+    {
+        "timestamp": 1741844900624,
+        "sensor_name": "Light Sensor",
+        "lux": 599
+    },
+    {
+        "timestamp": 1741844900824,
+        "sensor_name": "Light Sensor",
+        "lux": 599
+    },
+    {
+        "timestamp": 1741844901026,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844901224,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844901425,
+        "sensor_name": "Light Sensor",
+        "lux": 599
+    },
+    {
+        "timestamp": 1741844901625,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844901825,
+        "sensor_name": "Light Sensor",
+        "lux": 599
+    },
+    {
+        "timestamp": 1741844902025,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844902223,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844902423,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844902622,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844902822,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844903022,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844903220,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844903420,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844903620,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844903820,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844904020,
+        "sensor_name": "Light Sensor",
+        "lux": 599
+    },
+    {
+        "timestamp": 1741844904220,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844904419,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844904620,
+        "sensor_name": "Light Sensor",
+        "lux": 599
+    },
+    {
+        "timestamp": 1741844904819,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844905027,
+        "sensor_name": "Light Sensor",
+        "lux": 599
+    },
+    {
+        "timestamp": 1741844905218,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844905418,
+        "sensor_name": "Light Sensor",
+        "lux": 535
+    },
+    {
+        "timestamp": 1741844905628,
+        "sensor_name": "Light Sensor",
+        "lux": 489
+    },
+    {
+        "timestamp": 1741844905825,
+        "sensor_name": "Light Sensor",
+        "lux": 570
+    },
+    {
+        "timestamp": 1741844906027,
+        "sensor_name": "Light Sensor",
+        "lux": 558
+    },
+    {
+        "timestamp": 1741844906222,
+        "sensor_name": "Light Sensor",
+        "lux": 385
+    },
+    {
+        "timestamp": 1741844906423,
+        "sensor_name": "Light Sensor",
+        "lux": 408
+    },
+    {
+        "timestamp": 1741844906625,
+        "sensor_name": "Light Sensor",
+        "lux": 576
+    },
+    {
+        "timestamp": 1741844906821,
+        "sensor_name": "Light Sensor",
+        "lux": 581
+    },
+    {
+        "timestamp": 1741844907020,
+        "sensor_name": "Light Sensor",
+        "lux": 403
+    },
+    {
+        "timestamp": 1741844907222,
+        "sensor_name": "Light Sensor",
+        "lux": 478
+    },
+    {
+        "timestamp": 1741844907424,
+        "sensor_name": "Light Sensor",
+        "lux": 529
+    },
+    {
+        "timestamp": 1741844907625,
+        "sensor_name": "Light Sensor",
+        "lux": 576
+    },
+    {
+        "timestamp": 1741844907824,
+        "sensor_name": "Light Sensor",
+        "lux": 449
+    },
+    {
+        "timestamp": 1741844908023,
+        "sensor_name": "Light Sensor",
+        "lux": 478
+    },
+    {
+        "timestamp": 1741844908223,
+        "sensor_name": "Light Sensor",
+        "lux": 483
+    },
+    {
+        "timestamp": 1741844908422,
+        "sensor_name": "Light Sensor",
+        "lux": 564
+    },
+    {
+        "timestamp": 1741844908623,
+        "sensor_name": "Light Sensor",
+        "lux": 443
+    },
+    {
+        "timestamp": 1741844908823,
+        "sensor_name": "Light Sensor",
+        "lux": 282
+    },
+    {
+        "timestamp": 1741844909024,
+        "sensor_name": "Light Sensor",
+        "lux": 264
+    },
+    {
+        "timestamp": 1741844909220,
+        "sensor_name": "Light Sensor",
+        "lux": 138
+    },
+    {
+        "timestamp": 1741844909423,
+        "sensor_name": "Light Sensor",
+        "lux": 184
+    },
+    {
+        "timestamp": 1741844909617,
+        "sensor_name": "Light Sensor",
+        "lux": 512
+    },
+    {
+        "timestamp": 1741844909823,
+        "sensor_name": "Light Sensor",
+        "lux": 587
+    },
+    {
+        "timestamp": 1741844910019,
+        "sensor_name": "Light Sensor",
+        "lux": 599
+    },
+    {
+        "timestamp": 1741844910219,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844910416,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844910618,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844910817,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844911016,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844911216,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844911415,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844911615,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844911815,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844912019,
+        "sensor_name": "Light Sensor",
+        "lux": 610
+    },
+    {
+        "timestamp": 1741844912215,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844912414,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844912613,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844912818,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844913017,
+        "sensor_name": "Light Sensor",
+        "lux": 610
+    },
+    {
+        "timestamp": 1741844913212,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844913415,
+        "sensor_name": "Light Sensor",
+        "lux": 610
+    },
+    {
+        "timestamp": 1741844913611,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844913810,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844914010,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844914209,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844914413,
+        "sensor_name": "Light Sensor",
+        "lux": 610
+    },
+    {
+        "timestamp": 1741844914606,
+        "sensor_name": "Light Sensor",
+        "lux": 610
+    },
+    {
+        "timestamp": 1741844914809,
+        "sensor_name": "Light Sensor",
+        "lux": 610
+    },
+    {
+        "timestamp": 1741844915012,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844915206,
+        "sensor_name": "Light Sensor",
+        "lux": 610
+    },
+    {
+        "timestamp": 1741844915408,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844915609,
+        "sensor_name": "Light Sensor",
+        "lux": 610
+    },
+    {
+        "timestamp": 1741844915809,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844916007,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844916207,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844916406,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844916611,
+        "sensor_name": "Light Sensor",
+        "lux": 610
+    },
+    {
+        "timestamp": 1741844916808,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844917008,
+        "sensor_name": "Light Sensor",
+        "lux": 610
+    },
+    {
+        "timestamp": 1741844917206,
+        "sensor_name": "Light Sensor",
+        "lux": 604
+    },
+    {
+        "timestamp": 1741844917410,
+        "sensor_name": "Light Sensor",
+        "lux": 610
+    }
+]
